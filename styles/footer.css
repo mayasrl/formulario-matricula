@@ -1,0 +1,26 @@
+/* footer.css */
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 1rem 0;
+  text-align: center;
+  background-color: var(--surface-primary);
+  border-top: 1px solid var(--stroke-default);
+  font: var(--text-sm);
+  color: var(--text-secondary);
+  z-index: 1000;
+}
+
+footer .footer-center {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+footer img {
+  width: 16px;
+  height: auto;
+  vertical-align: middle;
+}
