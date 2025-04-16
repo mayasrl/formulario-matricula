@@ -3,7 +3,7 @@
 Este projeto é um **Formulário de Matrícula** desenvolvido em **HTML5** e **CSS3**, o objetivo é demonstrar conhecimentos em estruturação semântica, estilização responsiva e usabilidade de formulários, seguindo boas práticas de desenvolvimento web.
 
 ---
-
+ 
 ## Visão Geral
 
 - **HTML5**: Estrutura semântica com tags como `<main>`, `<aside>` e `<footer>`.
