@@ -1,6 +1,6 @@
-# Formulário de Matrícula
+# Estrelas do Amanhã
 
-Este projeto é um **Formulário de Matrícula** desenvolvido em **HTML5** e **CSS3**, o objetivo é demonstrar conhecimentos em estruturação semântica, estilização responsiva e usabilidade de formulários, seguindo boas práticas de desenvolvimento web.
+Este projeto é um **Formulário de Matrícula** da escola Estrelas do Amanhã desenvolvido em **HTML5** e **CSS3**, o objetivo é demonstrar conhecimentos em estruturação semântica, estilização responsiva e usabilidade de formulários, seguindo boas práticas de desenvolvimento web.
 
 ---
  
